@@ -44,6 +44,9 @@
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="compass-pointing-to-direction_318-35670.png" translatesAutoresizingMaskIntoConstraints="NO" id="nLh-j8-A7s">
+                                <rect key="frame" x="26" y="462" width="57" height="60"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
@@ -60,6 +63,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="compass-pointing-to-direction_318-35670.png" width="606" height="600"/>
         <image name="landscape-843971_1280" width="1280" height="960"/>
     </resources>
 </document>
